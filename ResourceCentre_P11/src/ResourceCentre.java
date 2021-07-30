@@ -2,7 +2,10 @@ import java.util.ArrayList;
 
 public class ResourceCentre {
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/20032245-abdul-rahman-rauf/ResourceCentre_P11
 	private static final int OPTION_QUIT = 5;
 	public static void main(String[] args) {
 
